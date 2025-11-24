@@ -1,5 +1,5 @@
 import {
-  ElementType,
+  type ElementType,
   useEffect,
   useRef,
   useState,
